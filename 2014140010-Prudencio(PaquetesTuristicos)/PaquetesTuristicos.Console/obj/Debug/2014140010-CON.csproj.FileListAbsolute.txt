@@ -1,0 +1,3 @@
+C:\Users\USUARIO\Desktop\2014140010-PrudencioLuis\2014140010-Prudencio(PaquetesTuristicos)\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\USUARIO\Desktop\2014140010-PrudencioLuis\2014140010-Prudencio(PaquetesTuristicos)\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\USUARIO\Desktop\2014140010-PrudencioLuis\2014140010-Prudencio(PaquetesTuristicos)\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb
